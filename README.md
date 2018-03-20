@@ -1,2 +1,6 @@
 # asky
-It is a item
+It is a shopping
+
+分模块
+
+含有这些模块:后台登录,前台登录,一级类目,二级类目,产品类目增删改查,
