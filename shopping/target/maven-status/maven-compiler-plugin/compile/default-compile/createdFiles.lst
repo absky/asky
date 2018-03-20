@@ -1,0 +1,5 @@
+com\tz\shopping\controller\IndexController.class
+com\tz\shopping\controller\admin\AdminController.class
+com\tz\shopping\controller\admin\ProductController.class
+com\tz\shopping\controller\admin\CategorysController.class
+com\tz\shopping\controller\admin\CategorySecondController.class
